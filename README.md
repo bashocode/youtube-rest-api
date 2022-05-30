@@ -1,5 +1,21 @@
 # youtube-rest-api
 
+### Required tools
+```
+vscode
+terminal
+docker
+```
+### Required commands
+```
+git
+docker
+docker-compose
+node
+npm
+npx
+```
+
 Documentation running this project
 - clone
 ```
